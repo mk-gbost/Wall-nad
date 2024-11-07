@@ -1,0 +1,181 @@
+{
+	"version": "v2",
+
+
+
+"comment": " stuff  Categorie A",
+
+"CategorieA":
+  [
+       
+       {"urlimgA": "https://i.postimg.cc/wTZd88kV/benz-8038240-1280.jpg"
+    }, 
+
+ {"urlimgA": "https://i.postimg.cc/fbhnycpS/car-1957037-1280.jpg"
+    },
+ {"urlimgA": "https://i.postimg.cc/gj71W83J/car-7955720-1280.jpg"
+    },
+ {"urlimgA": "https://i.postimg.cc/8PFqbXVr/porsche-911-gt2-5795128-1280.jpg"
+    },
+ {"urlimgA": "https://i.postimg.cc/h4ZkTWNB/sport-4155825-1280-1.jpg"
+    },
+
+
+  {"urlimgA": "https://i.postimg.cc/y8ctMJx1/vintage-car-6753626-1280.jpg"
+    },  {"urlimgA": "https://i.postimg.cc/rFv7ZG8Z/woman-7063830-1280.jpg"
+    },  {"urlimgA": "https://i.ytimg.com/vi/axmX2l3PL70/maxresdefault.jpg"
+    },  {"urlimgA": "https://i.ytimg.com/vi/NoB77ijZey8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiGdFtzmVIS1Exxs2ShoXPaTLWKA"
+    },  {"urlimgA": "https://i.ytimg.com/vi/3AQ7frTI0B8/maxresdefault.jpg"
+    },  {"urlimgA": "https://i.ytimg.com/vi/F0ijiLS611k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCaKpXdXOUSUuUpohDJLczqMHtknQ"
+    },  {"urlimgA": "https://i.ytimg.com/vi/P5F-hyc2kg0/maxresdefault.jpg"
+    },
+       {"urlimgA": "https://i.ytimg.com/vi/OkTsDYgpuoY/sddefault.jpg"
+    }
+  ],
+  "CategorieATitle":
+  [
+          {"TitleimgA": "  "
+    },      {"TitleimgA": "  "
+    },      {"TitleimgA": "  "
+    },      {"TitleimgA": "  "
+    },    {"TitleimgA": "  "
+    },   {"TitleimgA": "  "
+    },   {"TitleimgA": "  "
+    },   {"TitleimgA": "  "
+    },   {"TitleimgA": "  "
+    },   {"TitleimgA": "  "
+    },   {"TitleimgA": "  "
+    },   {"TitleimgA": "  "
+    },    {"TitleimgA": "  "
+    }
+  ],
+"comment": " stuff  Categorie B",
+
+"CategorieB":
+  [
+       {
+      "urlimgB": "https://w0.peakpx.com/wallpaper/201/144/HD-wallpaper-squid-game-squid-games-thumbnail.jpg"
+    },{
+      "urlimgB": "https://w0.peakpx.com/wallpaper/844/692/HD-wallpaper-god-of-war-game-gaming-godofwar-thumbnail.jpg"
+    },{
+      "urlimgB": "https://cdn.wallpapersafari.com/40/27/PfFpAD.jpg"
+    },{
+      "urlimgB": "https://www.mordeo.org/files/uploads/2018/06/No-Mans-Sky-Video-Game-HD-Mobile-Wallpaper-950x1689.jpg"
+    }
+  ],
+  
+     "CategorieBTitle":
+  [
+          {"TitleimgB": "SQUID GAME"
+    },    {"TitleimgB": "GOD OF WAR "
+    },   {"TitleimgB": "BATTLEFIELD "
+    },   {"TitleimgB": "NO MAN SKY "
+    }
+  ],
+  
+  
+  "comment": "Milk stuff is Categorie C",
+
+  "CategorieC":
+  [
+    {
+      "urlimgC": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?cs=srgb&dl=pexels-todd-trapani-1535162.jpg&fm=jpg"
+    },{
+      "urlimgC": "https://e0.pxfuel.com/wallpapers/940/921/desktop-wallpaper-pretty-sunset-all-white-background-thumbnail.jpg"
+    },{
+      "urlimgC": "https://wallpapershome.com/images/pages/ico_v/14878.jpg"
+    },
+       { "urlimgC": "https://i.pinimg.com/236x/4b/05/0c/4b050ca4fcf588eedc58aa6135f5eecf.jpg"
+    },   { "urlimgC": "https://wallpapers.com/images/featured/mobile-58g8gv3r23zg29kw.jpg"
+    }, 
+    {  "urlimgC": "https://e0.pxfuel.com/wallpapers/199/771/desktop-wallpaper-most-popular-cell-phone-abstract-cell-thumbnail.jpg"
+    },   { "urlimgC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp1qCWyIC6sIkCTl3khfATfQXuO0_ohkjLjw&usqp=CAU"
+    },   { "urlimgC": "https://e1.pxfuel.com/desktop-wallpaper/300/819/desktop-wallpaper-neon-by-backgrounds-cool-neon-phone-thumbnail.jpg"
+    },   { "urlimgC": "https://images.unsplash.com/photo-1541447237128-f4cac6138fbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80"
+    },   { "urlimgC": "https://e0.pxfuel.com/wallpapers/656/900/desktop-wallpaper-for-mobile-most-popular-gofeedz.jpg"
+    },
+    {
+      "urlimgC": "https://e1.pxfuel.com/desktop-wallpaper/384/905/desktop-wallpaper-best-3-most-popular-cell-phone-on-hip-the-most-awesome-mobile-thumbnail.jpg"
+    }
+  ],
+  
+  
+    "CategorieCTitle":
+  [
+          {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    },     {"TitleimgC": "POPULAR"
+    }
+  ],
+  
+  
+
+    "comment": "Donut stuff is CategorieD ",
+
+
+   "CategorieD":
+  [{
+      "urlimgD": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },{
+      "urlimgD": "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  
+      "comment": " ///// Guide stuff is CategorieE for image  CategorieF for title CategorieG for paragraph///// ",
+
+   "CategorieE":
+  [{
+      "urlimgE": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },{
+      "urlimgE": "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },{
+      "urlimgE": "https://i.kym-cdn.com/photos/images/original/001/392/195/56a.png"
+    },{
+      "urlimgE": "https://w0.peakpx.com/wallpaper/135/715/HD-wallpaper-for-kids-kid-cute-vector-landscape.jpg"
+    }
+  ],
+    "CategorieF":
+  [{
+      "titleurlF": "GUIDE 1 title"
+    },{
+      "titleurlF": "GUIDE 2 title"
+    },{
+      "titleurlF": "GUIDE 3 title"
+    },{
+      "titleurlF": "GUIDE 4 said"
+    }
+  ],
+   "CategorieG":
+  [{
+      "paragraphG": "paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 paragraph 1 "
+    },{
+      "paragraphG": "paragraph 2 paragraph 2 paragraph 2paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 paragraph 2 "
+    },{
+      "paragraphG": "paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3 paragraph 3  "
+    },{
+      "paragraphG": "saidddddddddddddddddddddddddd  "
+    }
+  ]
+  
+  
+
+
+
+
+
+
+	
+
+
+
+
+
+}
